@@ -18,5 +18,7 @@ public class JavaApplication21 {
         System.out.println("hello World");
 
         System.out.println("hello poly");
+
+        System.out.println("hello cu");
     
 }
